@@ -3,9 +3,13 @@ Lance Db is a object based key value pair DBMS designed in python. It is one of 
 
 To use the db.
 1.change path to the lance db folder
+
 2.launch python3 interpreter mode
+
 3. then type import lance as db or any suitable name
+
 4. all methods are to be called using the specified name
+
 For Instance: db.open("xyz")
 
 The Basic usage is as follows:

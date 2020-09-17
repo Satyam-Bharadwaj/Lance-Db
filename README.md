@@ -1,4 +1,4 @@
-# Lance-Db  A minimal toy DB
+# Lance-Db  A minimal toy DB [2016-2017]
 Lance Db is a object based key value pair DBMS designed in python. It is one of my personal projects undertaken to enhance dbms concepts.
 The db uses object shelving which is supported in python. Objects/Values can be shelved into one db. All kinds of crud can be performed.
 This is not an inmemory db.
